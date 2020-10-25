@@ -1,4 +1,4 @@
-name: App Workflow
+name: First App Workflow
 
 on:
   push:
